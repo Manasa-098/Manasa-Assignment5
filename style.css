@@ -33,6 +33,7 @@
     background-color: lightblue;
     border-radius: 12px;
 }
+@media(max-width:576px) {
 
 .discount {
     width: 400px;
@@ -46,6 +47,7 @@
     position: static;
     top: 0;
 
+}
 }
 
 .help {
