@@ -1,0 +1,120 @@
+.body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.card {
+    width: 400px;
+    margin: 10px auto;
+    border: 2px solid rgba(75, 74, 74, 0.969);
+    border-radius: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.img {
+    width: 100%;
+    border-top-left-radius: 11px;
+    border-top-right-radius: 11px;
+
+}
+
+.div {
+    padding: 20px;
+    cursor: pointer;
+
+}
+
+.btn {
+    border: none;
+    font-weight: bolder;
+    padding: 12px 22px;
+    background-color: lightblue;
+    border-radius: 12px;
+}
+
+.discount {
+    width: 400px;
+    border: 2px solid rgb(243, 213, 232);
+    margin: 10px auto;
+    border-radius: 12px;
+    background-color: rgb(211, 242, 166);
+    padding: 11px 0px;
+    text-align: center;
+    font-weight: bolder;
+    position: static;
+    top: 0;
+
+}
+
+.help {
+    border: 2px solid black;
+    background-color: #04aa04;
+    color: black;
+    display: inline;
+    padding: 16px 35px;
+    border-radius: 30px;
+    font-weight: bolder;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.history {
+    font-size: larger;
+}
+
+.image {
+    width: 70%;
+
+    border: 2px solid rgba(75, 74, 74, 0.969);
+    border-radius: 11px;
+
+}
+
+.visit {
+    font-size: x-large;
+    color: blue;
+
+}
+
+.bn2 {
+    border: none;
+    font-weight: bolder;
+    padding: 12px 22px;
+    background-color: rgb(199, 229, 239) border-radius: 12px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.card3 {
+    width: 400px;
+    margin: 10px auto;
+    border: 2px solid rgba(75, 74, 74, 0.969);
+    border-radius: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+
+
+
+.kiwi {
+    width: 250px;
+    height: 250px;
+    border: 2px;
+}
+
+.bn3 {
+    border: none;
+    font-weight: bolder;
+    padding: 12px 22px;
+    background-color: lightblue;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.price {
+    font-size: x-large;
+
+}
