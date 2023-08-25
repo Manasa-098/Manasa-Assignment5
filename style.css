@@ -6,7 +6,7 @@
 }
 @media(max-width:576px) {
 .card {
-    width: 400px;
+    width: 300px;
     margin: 10px auto;
     border: 2px solid rgba(75, 74, 74, 0.969);
     border-radius: 12px;
@@ -91,7 +91,7 @@
 }
 @media(max-width:576px) {
 .card3 {
-    width: 400px;
+    width: 300px;
     margin: 10px auto;
     border: 2px solid rgba(75, 74, 74, 0.969);
     border-radius: 12px;
